@@ -21,7 +21,7 @@ This repository contains Jupyter Notebook files (.ipynb) for each week's exercis
   ```
 2. Clone the repository
    ```bash
-   git clone shdfgsg
+   git clone git@github.com:caroljoyv/data-analysis-with-python-Coursera.git
    ```
 3. Navigate to the directory
      ```bash
